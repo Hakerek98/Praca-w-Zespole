@@ -1,0 +1,3 @@
+Strona dzieli się na 
+Szkielet html Style kaskadowe CSS
+Folder z Plikami graficznymi
