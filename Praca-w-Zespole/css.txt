@@ -1,0 +1,68 @@
+/* Resetowanie marginesów i paddingów */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Stylizacja nagłówka */
+header {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #6c63ff;
+}
+
+header p {
+    font-size: 1.25rem;
+    color: #6c757d;
+}
+
+/* Główna sekcja */
+section {
+    padding: 50px 0;
+}
+
+section img {
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+/* Usługi */
+.services {
+    background-color: #f1f1f1;
+}
+
+.services h2 {
+    margin-bottom: 40px;
+    color: #333;
+}
+
+.services .col-md-4 {
+    margin-bottom: 30px;
+}
+
+.services h4 {
+    color: #6c63ff;
+    margin-bottom: 20px;
+}
+
+/* Sekcja FAQ */
+.faq ul {
+    list-style-type: none;
+}
+
+.faq ul li {
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+    color: #333;
+}
+
+/* Stopka */
+footer {
+    background-color: #343a40;
+    color: #fff;
+}
